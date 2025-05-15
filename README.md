@@ -40,8 +40,15 @@ Wrote a mock IRP for a ransomware attack following NIST guidelines.
 
 ## 📫 Contact
 
-- 📧 Email: your-email@example.com
+- 📧 Email: omopariolaadedoyin@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/adedoyin-omopariola](your-link-here)
 
 ---
+
+### 🎖️ Certificate of Completion
+
+[![Google Cybersecurity Certificate](./Google-Cybersecurity-Certificate/badge.png)](https://www.credly.com/your-certificate-link)
+
+📜 [View Certificate PDF](./Google-Cybersecurity-Certificate/Certificate.pdf)
+
 
